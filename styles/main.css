@@ -722,8 +722,7 @@ a {
 
 .sender {
   margin-right: 50px;
-  max-width: 656px;
-  background: #fcfcfd; }
+  max-width: 656px; }
   .sender__form {
     display: block;
     margin-top: 106px; }
